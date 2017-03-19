@@ -1,0 +1,13 @@
+.frame {
+	border: 2px solid red;
+	align-self: center;
+	margin-left: 500px;
+	width: 500px;
+	height: 500px;
+}
+body{
+	background-color: green;
+}
+.saadudandmed{
+	color: blue;
+}
